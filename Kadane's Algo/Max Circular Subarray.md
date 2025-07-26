@@ -1,3 +1,6 @@
+
+Main thing is to remember: by contradiction if i able to find minSubarray then ,diff of total sum of array element and minSubarray is always maximum. ............... point to be noted.
+
 ```cpp
 class Solution {
   public:
